@@ -1,4 +1,4 @@
-# Data science portfolio by Bhavya Rema Devi
+# My portfolio
 
 #### Technical Skills: Python, SQL, Gen AI, AI/ML algorithms, Azure, GCP 
 
@@ -13,11 +13,11 @@
 - Redeveloped report tagging model using Transformers and advanced NLP and data engineering, which resulted in 40% improvement in model performance and 73% in speed.
 - Headed the successful development and implementation of appointment scheduling optimization to reduce patient wait times within clinical settings.
 
-**Cloud Technology Associate trainee @ Google(_October 2021 - December 2022)**
+**Cloud Technology Associate trainee @ Google(_October 2021 - December 2022_)**
 - Study and implementation of recommendation model from research papers for retail markets using Graph database, customer behaviour data and neural network training.
 - Underwent 3 months of intensive trainig on Cloud Technology on Google cloud Patform.
 
-**Systems Engineer @ Infosys Technologies(_December 2009 - February 2012)**
+**Systems Engineer @ Infosys Technologies(_December 2009 - February 2012_)**
 - Designed and developed Stored procedures, SQL triggers, and complex sql queries to generate comprehensive reports using Toad and MS SQL Server Reporting Services.
 - Additional responsibilities include Quality Assurance and Development, following agile methodology.
 
