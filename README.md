@@ -12,3 +12,4 @@
 Inspired from https://www.amazon.science/publications/p-companion-a-principled-framework-for-diversified-complementary-product-recommendation)
 
 Developed objective strategy for discovering frequently bought together items using **Python**, **Graph database-Neo4j** and **Neural netowork training**. The proposed method uses graph node embeddings(product embeddings) to train a neural network to output 3 recommendations for a product from exising customer purchase data.
+View it here https://github.com/bhavya-rema/E-Commerce-Recommendation
