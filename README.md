@@ -1,6 +1,6 @@
 # My portfolio
 
-#### Technical Skills: Python, SQL, Gen AI, AI/ML algorithms, Azure, GCP 
+#### Technical Skills: Python, SQL, Gen AI, RAG, Agentic, AI/ML algorithms, Azure, GCP 
 
 ## Education
 - M.Tech in Intelligent Systems	| National University of Singapore (_December 2021_)	 			        		
